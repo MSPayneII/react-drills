@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+main {
+  margin: 0 auto;
+}
+
+input {
+  width: 12rem;
+  height: 2rem;
+  padding-left: 0.5rem;
+  margin: 2rem;
+}
+
+div p {
+  font-weight: 500;
+}
